@@ -5,7 +5,7 @@
 ## Welcome to my GitHub profile 
 <ul>
   <li>:eye_speech_bubble: I'm interested in Java programming language, and I'm studying to become a Java expert</li>
-  <li>:books: Recently I'm a post graduate student in Software Engineering and  I have a degree in computing and programming.</li>
+  <li>I a post graduation in Software Engineering and  I have a degree in computing and programming.</li>
   <li>:sparkles: In this repository you will find my study notes, as well as projects that I use to practice what I'm learning</li>
 </ul>
     
