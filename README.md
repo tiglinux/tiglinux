@@ -20,17 +20,13 @@
 ![image](https://github.com/tiglinux/tiglinux/assets/8001737/3d949e41-fea9-4a4c-8212-9cd865c80436)
 ![image](https://github.com/tiglinux/tiglinux/assets/8001737/b6e3065a-9a20-4757-9cec-ef7f9a3635bc)
 ![image](https://github.com/tiglinux/tiglinux/assets/8001737/b2454442-6b72-45cc-9d12-218dec6518c8)
-
-
-
-
-## :books: Technologies I'm studying
 ![image](https://github.com/tiglinux/tiglinux/assets/8001737/212b3cfb-6490-4f2e-8fb9-9a2fdc24edce)
 ![image](https://github.com/tiglinux/tiglinux/assets/8001737/9d9a108a-d1c6-4876-b70d-58ddeb043d5f)
 ![image](https://github.com/tiglinux/tiglinux/assets/8001737/9ebabc83-f1f7-41f8-8718-8804af995d30)
 ![image](https://github.com/tiglinux/tiglinux/assets/8001737/1f5db358-fdf8-4fe1-be2a-309d63424cc8)
-![image](https://github.com/tiglinux/tiglinux/assets/8001737/ab8400ce-f062-4393-8cc8-67f7d018329f)
-![image](https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png)
+
+
+## :books: Technologies I'm studying
 ![image](https://github.com/tiglinux/tiglinux/assets/8001737/75e7215c-9eb2-46b8-a426-9b18f06d572d)
 ![image](https://github.com/tiglinux/tiglinux/assets/8001737/dc6fa57b-2e9a-4c50-bd16-91a9ac2a12d3)
 
