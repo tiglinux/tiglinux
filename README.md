@@ -24,14 +24,7 @@
 ![image](https://github.com/tiglinux/tiglinux/assets/8001737/9d9a108a-d1c6-4876-b70d-58ddeb043d5f)
 ![image](https://github.com/tiglinux/tiglinux/assets/8001737/9ebabc83-f1f7-41f8-8718-8804af995d30)
 ![image](https://github.com/tiglinux/tiglinux/assets/8001737/1f5db358-fdf8-4fe1-be2a-309d63424cc8)
-
-
-## :books: Technologies I'm studying
-![image](https://github.com/tiglinux/tiglinux/assets/8001737/75e7215c-9eb2-46b8-a426-9b18f06d572d)
-![image](https://github.com/tiglinux/tiglinux/assets/8001737/dc6fa57b-2e9a-4c50-bd16-91a9ac2a12d3)
-
-
-
+![image](https://github.com/user-attachments/assets/386bcbf5-3248-4283-9998-c08a51cc9a70)
 
 
 ## 📱How reach me
