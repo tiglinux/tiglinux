@@ -1,11 +1,10 @@
 
 # :nerd_face: Hi, I'm Tiago Ribeiro Santos
-[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg?label=TIAGORIBEIROSANTOS.6TE.NET)](http://tiagoribeirosantos.6te.net)
 
 ## Welcome to my GitHub profile 
 <ul>
-  <li>:computer:  Software Engineer , Kotlin/Java Developer and Android Engineer. </li>
-  <li>I a post graduate in Software Engineering and I have a degree in computing and programming.</li>
+  <li>:computer:  Senior Software Engineer , Backend, FullStack and Android Developer. </li>
+  <li>I have Post Degree in Software Engineering and currently i student of Software Engineering Bachelor's Degree</li>
   <li>:sparkles: In this repository you will find my study notes, as well as projects that I use to practice what I'm learning</li>
 </ul>
     
@@ -25,6 +24,8 @@
 ![image](https://github.com/tiglinux/tiglinux/assets/8001737/9ebabc83-f1f7-41f8-8718-8804af995d30)
 ![image](https://github.com/tiglinux/tiglinux/assets/8001737/1f5db358-fdf8-4fe1-be2a-309d63424cc8)
 ![image](https://github.com/user-attachments/assets/386bcbf5-3248-4283-9998-c08a51cc9a70)
+![image](https://github.com/user-attachments/assets/b71b2653-e998-4301-82e1-250c4bf621bb)
+
 
 
 ## 📱How reach me
@@ -32,9 +33,7 @@
 <div dir="auto">
     <a href="https://www.linkedin.com/in/tiagoribeirosantos/" rel="nofollow"><img src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>   
     <a href="mailto:tiago.programador@hotmail.com"><img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=hotmail&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://api.whatsapp.com/send?phone=5519996635326&text=Olá,%20gostaria%20de%20entrar%20em%20contato%20com%20você." rel="nofollow">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="max-width: 100%;">
-</a>
+
 
 </div>
 
